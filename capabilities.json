@@ -1,0 +1,8 @@
+{
+    "platformName": "Android",
+    "automationName": "UiAutomator2",
+    "deviceName": "5200b93442a9b52f",
+    "appPackage": "com.sec.android.app.launcher",
+    "appActivity": "com.sec.android.app.launcher.activities.LauncherActivity",
+    "noReset": true
+}
